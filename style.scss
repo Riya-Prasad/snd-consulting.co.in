@@ -301,6 +301,7 @@ body {
   text-align: center;
 
   h3 {
+    font-family: var(--heading-font);
     font-size: clamp(26px, 4vw, 44px);
     line-height: 1.05;
     margin: 0 0 10px;
@@ -478,13 +479,13 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.08);
 
   &--1 {
-    background: #A3DC9A;
+    background: #a3dc9a;
   }
   &--2 {
     background: #78b9b5;
   }
   &--3 {
-    background: #6F826A;
+    background: #6f826a;
   }
 
   h2 {
